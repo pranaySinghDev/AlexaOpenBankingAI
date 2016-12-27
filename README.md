@@ -28,6 +28,8 @@ HsbcDataIntent what is the location of {AtmId}
 #Test
 Utterances:
 Hsbc data get details of Abingdon
+![Alt text](relative/path/to/AlexaRequest.PNG?raw=true "Title")
 
 Response:
 Your bank is located at 6 High Street postcode OX14 5AZ Latitude 51.669979 Longitute -1.282277
+![Alt text](relative/path/to/AlexaResponse.PNG?raw=true "Title")
